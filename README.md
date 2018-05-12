@@ -1,0 +1,2 @@
+# iterdash
+Functional javascript library
